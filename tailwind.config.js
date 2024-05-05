@@ -13,6 +13,10 @@ export default {
         "3xl":"2.25rem",
 
         
+      },
+      backgroundImage: {
+        'team-bg-image': "url('/public/female/Group 18.png')",
+
       }
     },
   },
