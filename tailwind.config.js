@@ -11,11 +11,17 @@ export default {
         xl:"1.5rem",
         "2xl":"1.75rem",
         "3xl":"2.25rem",
+        "4xl":"3rem",
+        "5xl":"4rem",
+        
+
+        
 
         
       },
       backgroundImage: {
         'team-bg-image': "url('/public/female/Group 18.png')",
+        'team-avatar': "url('/public/female/team_avatar.png')",
 
       }
     },
